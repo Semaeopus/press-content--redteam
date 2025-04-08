@@ -1,1 +1,3 @@
-Off Grid Red Team
+Red is a young hustler, bouncing from one odd job to the next, just trying to get by. That all changed when she stumbled across a shady forum thread and got a message from Pr0 — a legendary hacker stuck in jail with nothing but a burner phone. He had a proposition: big money, one job. The catch? It’s definitely not legal.
+
+Now, with Pr0 feeding her instructions through text, Red has to slip into Aldrena’s offices, hack their systems, and steal a prototype — all without getting caught. One wrong move, and she won’t just lose the payday… she’ll be sharing a cell with her new partner.

@@ -6,4 +6,4 @@ With support from the Ufi VocTech Trust, an independent charity focused on using
 to help adults build skills for work, OGRT is more than just a game—it’s a bold step toward using
 gaming as a tool for practical cybersecurity education.
 
-Be a part of a bold new beggining in cyber security accessible for everyone.
+A bold new beginning in making cyber security accessible for everyone.

@@ -1,16 +1,18 @@
 
 Developer:
 Semaeopus
-Based in Essex, United Kingdom
+
+Genre:
+Simulation/Puzzle/Adventure
 
 Release date:
-TBC
+currently in development
 
 Platforms:
 Windows / Mac / Linux
 
 Website:
-link
+https://semaeopus.com/
 
 Regular Price:
 TBC

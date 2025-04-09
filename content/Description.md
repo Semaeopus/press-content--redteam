@@ -1,4 +1,4 @@
-Welcome to Off Grid: Red Team, a mod of Off Grid, it's an experience dedicated to cyber security training set in the award winning universe of Off Grid.
+Welcome to Off Grid: Red Team, a solo mod of Off Grid, it's an experience dedicated to cyber security training set in the award winning universe of Off Grid.
 
 At Semaeopus we're all about using stealth and trickery to explore in depth worlds and this time we invite you to start your journey into Cyber security! Learn how to keep yourself safe on the internet by playing and facing real life simulations and solving the mysteries in the game.
 

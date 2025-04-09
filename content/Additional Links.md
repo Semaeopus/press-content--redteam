@@ -1,11 +1,11 @@
 **DevBlog**
-link
+https://offgridthegame.blogspot.com/
 
 **Instagram**
-link
+https://www.instagram.com/offgridthegame/
 
-**Twitter**
-link
+**X**
+https://x.com/OffGridTheGame
 
 **Reddit**
 link

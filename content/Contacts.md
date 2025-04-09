@@ -3,3 +3,6 @@
 
 **Web**  
 [semaeopus.com](http://semaeopus.com/)
+
+**Discord**
+discord link goes here

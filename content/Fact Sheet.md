@@ -3,7 +3,7 @@ Developer:
 Semaeopus
 
 Genre:
-Simulation/Puzzle/Adventure
+Simulation/Puzzle/Adventure/ARG
 
 Release date:
 currently in development

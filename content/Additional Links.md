@@ -1,3 +1,5 @@
+Make sure to mention links for the main game
+
 **DevBlog**
 https://offgridthegame.blogspot.com/
 

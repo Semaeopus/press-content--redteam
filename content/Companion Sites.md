@@ -4,4 +4,4 @@ These sites were carefully crafted to resemble real-world businesses, complete w
 
 The games takes advantage of the tools present in most browsers in order to solve the puzzles. These external websites take Off Grid: Red Team into the Augmented Reality Game space to make the simulations more accurate. You'll find in game representations of these websites so that the transition is as seemless as possible.
 
-INSERT IMAGE OF RED LOOKING AT ONE WEBSITE AND ANOTHER THE WEBSITE IN REAL LIFE  FOR INTSECURE
+![[Red looking at intsecur.png]]

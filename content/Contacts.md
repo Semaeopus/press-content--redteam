@@ -1,4 +1,4 @@
-**Inquiries**  
+**Inquiries**
 [contact@semaeopus.com](mailto:contact@semaeopus.com)
 
 **Web**

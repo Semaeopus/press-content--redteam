@@ -1,3 +1,5 @@
+## How to play
+
 As players dive deeper into _Off Grid: Red Team_, they’ll face challenges that blur the lines between game and reality — encouraging them to **break the fourth wall** by using **in-game clues** on **real websites** built with hardened `Python` to resemble real world businesses with **real** vulnerabilities.
 
 These sites were carefully crafted to resemble real-world businesses, complete with vulnerabilities that stem from weak or non-existent security practices. 

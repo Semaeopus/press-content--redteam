@@ -1,7 +1,7 @@
 
-### 🏆 Off Grid: Red Team is being developed with the modding tools that will be available for all the players with Off Grid. 
+### 🏆 Off Grid: Red Team is being developed with the modding tools that will be available for all the players with Off Grid.
 
-[Off Grid](www.offgrid.com) **won several awards**:
+[Off Grid](https://offgridthegame.com) **won several awards**:
 
 - "**Indiecator Award**" Sweden Game Conference, Skövde, October 2018
 - "**One of the ten best games on the show floor**" EGX, September 2017

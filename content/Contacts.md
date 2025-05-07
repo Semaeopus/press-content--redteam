@@ -5,4 +5,4 @@
 [semaeopus.com](http://semaeopus.com/)
 
 **Discord**
-discord link goes here
+[Join Semaeopus Discord](https://discord.gg/2QdZfmr2jt)
